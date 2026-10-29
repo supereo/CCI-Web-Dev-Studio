@@ -1,0 +1,10 @@
+/* AI disclosure: minimal placeholder styles scaffolded by Claude (Anthropic).
+   Replace with your own styles from your Figma design. */
+
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  max-width: 70ch;
+  margin: 0 auto;
+  padding: 1rem;
+}
